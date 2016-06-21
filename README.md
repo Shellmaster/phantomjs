@@ -2,7 +2,7 @@
 
 Image based on pure Debian docker image.
 
-this is a basic phantomjs with all examples, mostly used for rasterize.js (screen capture) - SSL is being supported
+this is a basic phantomjs with all examples, mostly used for rasterize.js (screen capture) - SSL is supported
 
 Usage example for a screen-shot:
 
