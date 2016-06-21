@@ -6,7 +6,7 @@ this is a basic phantomjs with all examples, mostly used for rasterize.js (scree
 
 Usage example for a screen-shot:
 
-`docker run --rm -ti -v $PWD:/img Shellmaster/phantomjs phantomjs /e/rasterize.js https://github.com github.png`
+`docker run --rm -ti -v $PWD:/img Shellmaster/phantomjs phantomjs /e/rasterize-latest.js https://github.com github.png`
 
 All examples are located under `/e` directory and to get the full list, you can execute this command:
 
